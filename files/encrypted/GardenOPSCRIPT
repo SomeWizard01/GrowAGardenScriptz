@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://paste.ee/r/J5y10QjY"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SomeWizard01/GrowAGardenScripts/refs/heads/main/3/Secure/Gag_script'))()
